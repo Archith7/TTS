@@ -1,0 +1,18 @@
+textarea{
+    width:450px;
+    height:150px;
+    border-radius: 15px;
+    align-self: center;
+    border-color: rgb(216, 79, 79);
+    /* padding: 20px; */
+    /* margin-bottom: 30px; */
+}
+button{
+    height: 30px;
+    width: 80px;
+    border-color: antiquewhite;
+}
+textarea::placeholder{
+    color: rgb(42, 48, 48);
+    font-size:16px ;
+}
